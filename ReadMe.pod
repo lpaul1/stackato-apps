@@ -7,7 +7,7 @@ See http://github.com/ingydotnet/swim-pm#readme
 =encoding utf8
 
 =head1 stackato-apps
-
+# Just a comment to trigger build from Jenkings plugin - added by lpaul
 This repo contains all the latest Stackato Apps in one repository that you can
 clone with this command:
 
